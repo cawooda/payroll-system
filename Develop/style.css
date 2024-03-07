@@ -34,6 +34,10 @@ h2 {
   text-align: center;
 }
 
+section {
+  margin-top:4vh;
+}
+
 .card {
   background-color: hsl(0, 0%, 100%);
   border-radius: 5px;
